@@ -19,5 +19,9 @@ script: echo "Deploying!"
 before_deploy: npm run build
 deploy:
   - provider: firebase
-after_success:
-    - firebase deploy --token $FIREBASE_TOKEN
+skip_cleanup: true
+  on:
+    branch: master
+  project: gdghyd-master
+  token:
+    secure: 1/FQD39SVEdeAw6yFIFq6hJlDdgLU4niab3OT8LsJ90kM
