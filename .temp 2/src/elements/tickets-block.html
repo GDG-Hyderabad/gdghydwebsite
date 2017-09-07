@@ -1,0 +1,99 @@
+<link rel="import" href="../../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../../bower_components/paper-button/paper-button.html">
+
+<link rel="import" href="../styles/shared-styles.html">
+<link rel="import" href="ticket-element.html">
+
+
+<dom-module id="tickets-block">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        --iron-icon-fill-color: var(--text-primary-color);
+        --paper-card-background: #FFFFFF;
+        display: block;
+        background: #37474f;
+        color: var(--text-primary-color);
+        text-align: center;
+      }
+      .tickets-wrapper {
+        @apply(--layout-horizontal);
+        @apply(--layout-wrap);
+        @apply(--layout-center-justified);
+      }
+      .block-header {
+        color: #ffffff;
+      }
+      ticket-element {
+        margin: 15px;
+      }
+      paper-button {
+        font-size: 0.9em;
+      }
+      .details {
+        margin: 10px auto 0;
+        font-size: 16px;
+        max-width: 945px;
+        color: #ffffff;
+      }
+      .buy-button {
+        margin-top: 30px;
+        background: #f1524c;
+        font-weight: bold;
+        color: #ffffff;
+      }
+      paper-dialog {
+        background: #fff;
+        color: var(--primary-text-color);
+      }
+      paper-dialog paper-button {
+        color: var(--default-primary-color);
+      }
+      @media (min-width: 601px) {
+        ticket-element {
+          max-width: 350px;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="block-header">
+        <h4 class="heading">Be a Developer, Be a Hero</h4>
+      </div>
+      <div class="tickets-wrapper">
+        <template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">
+          <ticket-element
+            name="[[ticket.name]]"
+            info="[[ticket.info]]">
+          </ticket-element>
+        </template>
+      </div>
+      <div class="details">The membership is open to newbies, developers, students, organizations and for everyone who is interested in Google&#39;s technologies.</div>
+      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <paper-button class="buy-button" raised>Come, Join us</paper-button>
+      </a>
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+      Polymer({
+        is: 'tickets-block',
+        ready: function () {
+          HOVERBOARD.Elements.Tickets = this
+        },
+        _trackBuyClick: function (e) {
+          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', e.currentTarget.href);
+        }
+      });
+    }());
+  </script>
+
+</dom-module>

@@ -1,0 +1,595 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/ng-hyd.svg",
+      "name" : "ng-Hyderabad",
+      "url" : "https://plus.google.com/102444623953913144164",
+      "width" : 170
+    } ],
+    "title" : "Community Partners"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com"
+    }, {
+      "logoUrl" : "../images/logos/Google_Developers.svg",
+      "name" : "Google Developers",
+      "url" : "https://developers.google.com"
+    }, {
+      "logoUrl" : "../images/logos/GitHub.svg",
+      "name" : "GitHub",
+      "url" : "https://github.com"
+    }, {
+      "logoUrl" : "../images/logos/Code_School.svg",
+      "name" : "Code School",
+      "url" : "https://www.codeschool.com/"
+    }, {
+      "logoUrl" : "../images/logos/Hackerrank.svg",
+      "name" : "Hackerrank",
+      "url" : "https://www.hackerrank.com/"
+    }, {
+      "logoUrl" : "../images/logos/gdg-x.svg",
+      "name" : "GDG[x]",
+      "url" : "https://github.com/gdg-x"
+    } ],
+    "title" : "General Sponsors & Partners"
+  } ],
+  "speakers" : [ null, {
+    "bio" : "Naren is the Co-founder&CEO of Stockroom, India's #1 curated platform for developers. He is an alumni of BITS Pilani.Stockroom has hosted 200+ coding challenges with 40+ clients like Amazon,Microsoft, Thoughtworks etc. Naren is also part of elite fellowships like Kairos Society, Draper University, World business dialogue etc.",
+    "company" : "Stockroom",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Co-Founder & CEO",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Naren Krishna",
+    "photoUrl" : "/images/people/naren_krishna.jpg",
+    "shortBio" : "Naren is the Co-founder&CEO of Stockroom, India's #1 curated platform for developers. He is an alumni of...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/narenkrishna/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/naren_krishna",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "community-building", "enterpreneur", "recruitment" ],
+    "title" : "Stockroom, Co-Founder & CEO"
+  }, {
+    "bio" : "Design leader at the intersection of business strategy and user experience. I am an expert at bringing people together to develop and implement breakthrough ideas that serve as the basis for differentiating experience strategies and user experience designs. I have over 15 years consulting experience with clients across industries to transform both their experiences and their organizations to create competitive advantage and achieve their business objectives.",
+    "company" : "ThoughtWorks",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Lead User Experience Strategist",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Sunil Shrivastav",
+    "photoUrl" : "/images/people/sunil_shrivastav.jpg",
+    "shortBio" : "Design leader at the intersection of business strategy and user experience. I am an expert at...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sunilshrivastav",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "user-experience" ],
+    "title" : "Lead User Experience Strategist - ThoughtWorks"
+  }, 
+  {
+    "bio" : "Harish Kotra has 5 years of hands on experience in web and mobile app development. He currently leads the tech team at Deep Red Ink Consulting Pvt. Ltd. Harish on a daily basis works on Hybrid App development, ML and web applications. He also organizes Hackathons through out India.",
+    "company" : "Fests.info",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Founder",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Harish Kotra",
+    "photoUrl" : "/images/people/harish_kotra.jpg",
+    "shortBio" : "Harish Kotra has 5 years of hands on experience in web and mobile app...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://facebook.com/harish.kotra",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/HarishKotra",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://harishkotra.me",
+      "name" : "website"
+    } ],
+    "tags" : [ "machine-learning","hybrid mobile apps", "web-apps" ],
+    "title" : "Organizer - AngelHack"
+  }, {
+    "badges" : [ {
+        "description" : "GDG Hyderabad Android User Club",
+        "link" : "#",
+        "name" : "GDG Hydroid"
+    } ],
+    "bio" : "I'm a technological enthusiast , full stack developer and father of most beautiful daughter.",
+    "company" : "Pramati Technologies",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Developer",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Gaurav Sharma",
+    "photoUrl" : "/images/people/Gaurav_Sharma.jpg",
+    "shortBio" : "I'm a technological enthusiast , full stack developer...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/gauravsharma531",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/Gauravsharma531",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/gaurav-sharma-0967b328/",
+      "name" : "LinkedIn"
+    }, {
+        "icon" : "github",
+        "link" : "https://github.com/GauravSharma531",
+        "name" : "GitHub"
+    } ],
+    "tags" : [ "android", "mean-stack", "cloud" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "Astute Professional with over 10 years of experience in the domain of Analytics, Customer Engagement, Retention,Mobile Strategy, Product Management, Pre-sales, Delivery, Solutioning.",
+    "company" : "PurpleTalk",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Developer",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Narendra Peesapati",
+    "photoUrl" : "/images/people/narendra.jpg",
+    "shortBio" : "Astute Professional with over 10 years of experience in the domain of Analytics, Customer Engagement...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/narendra.peesapati",
+      "name" : "Facebook"
+    }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/naren1131",
+        "name" : "Twitter"
+    }, {
+        "icon" : "website",
+        "link" : "http://upshot.ai/",
+        "name" : "Website"
+    } ],
+    "tags" : [ "analytics", "customer-engagement"],
+    "title" : "Software Engineer"
+  }, {
+    "badges" : [ {
+        "description" : "AngularJS Hyderabad",
+        "link" : "https://www.meetup.com/nghyderabad/",
+        "name" : "ng-Hyderabad"
+      } ],
+    "bio" : "Keerti Kotaru has experience with web development for 15 years. He is an organiser for ngHyderabad Meetup group in the city. He is a two time Microsoft MVP",
+    "company" : "ngHyderabad",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Software Engineer",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Keerti Kotaru",
+    "photoUrl" : "/images/people/keerti_kotaru.jpg",
+    "shortBio" : "Keerti Kotaru has experience with web development for 15 yea...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "fb.me/keertikotaru",
+      "name" : "Facebook"
+    },{
+        "icon" : "twitter",
+        "link" : "twitter.com/keertikotaru",
+        "name" : "Twitter"
+    },{
+        "icon" : "linkedin",
+        "link" : "linkedin.com/in/keertikotaru",
+        "name" : "LinkedIn"
+    },{
+        "icon" : "github",
+        "link" : "github.com/keertikotaru",
+        "name" : "GitHub"
+    } ],
+    "tags" : [ "web", "javascript", "angular-js" ],
+    "title" : "Software Developer"
+  }, {
+    "badges" : [ {
+      "description" : "AngularJS Hyderabad",
+      "link" : "https://www.meetup.com/nghyderabad/",
+      "name" : "ng-Hyderabad"
+    } ],
+    "bio" : "I am a developer with experience in building applications using several .NET technologies and JavaScript. I organize the ngHyderabad meetup and write for my blog, SitePoint.com and DotNetCurry.com. I am a recipient of the Microsoft MVP award over last 3 years for my contribution to the community.",
+    "company" : "ngHyderabad",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Software Developer",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Ravi Kumar",
+    "photoUrl" : "/images/people/ravi_kumar.jpg",
+    "shortBio" : "I am a developer with experience in building applications using several .NET...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sravi_kiran",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/s-rabi-kiran-52257a24/",
+      "name" : "LinkedIn"
+    }, {
+        "icon" : "github",
+        "link" : "http://github.com/sravikiran",
+        "name" : "GitHub"
+      },{
+        "icon" : "website",
+        "link" : "http://sravi-kiran.blogspot.com",
+        "name" : "GitHub"
+      } ],
+    "tags" : [ "web", "angular-js", "ui" ],
+    "title" : "Software Developer"
+  }, {
+    "badges" : [ {
+        "description" : "GDG Hyderabad Android User Club",
+        "link" : "#",
+        "name" : "GDG Hydroid"
+    } ],
+    "bio" : "Technology enthusiast",
+    "company" : "Ivy Comptech",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Android Developer",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Venkata Dinesh",
+    "photoUrl" : "/images/people/Venkata_Dinesh.jpg",
+    "shortBio" : "Technology enthusiast",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/117608472556300061449venkata",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/venkatadineshkotturu",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "android" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "A technologist and changepreneur with experience in community management and keen interest in making the most of my MBA learnings and computer science based skills. ",
+    "company" : "Women Technmakers Hyderabad",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Technologist & Changepreneur",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Sindhoora Mokshagundam",
+    "photoUrl" : "/images/people/sindhoora_m.jpg",
+    "shortBio" : "A technologist and changepreneur with experience in community management and keen interest...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+SindhooraMokshagundam",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/sindhoora.mokshagundam",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://uk.linkedin.com/in/sindhoora-mokshagundam",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "web", "seo", "digital-marketing", "business-management" ],
+    "title" : "Technologist & Changepreneur"
+  }, {
+    "bio" : " Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
+    "company" : "GDG Hyderabad",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "role" : "Community Co-Lead",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Anudeep Sai N",
+    "photoUrl" : "/images/people/Anudeep_Sai.jpg",
+    "shortBio" : "Xoogler & passionate about open source, web development.",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "https://medium.com/@anudeepsai/",
+      "name" : "Website"
+    } ],
+    "tags" : [ "web", "machine-learning"],
+    "title" : "Technology Evangalist"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Bharath Silagani",
+      "photoUrl" : "/images/people/Bharath_Silagani.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+BharathSilagani",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/public/Bharath-Silagani",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/bsilagani",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/bsilagani",
+        "name" : "Linkedin"
+      }],
+      "title" : "Community Lead"
+    }, {
+      "name" : "Anudeep Sai N",
+      "photoUrl" : "/images/people/Anudeep_Sai.jpg",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://medium.com/@anudeepsai/",
+        "name" : "Blog"
+      } ],
+      "title" : "Community Co-Lead"
+    }, {
+      "name" : "Pratyusha Simharaju",
+      "photoUrl" : "/images/people/Prathyusha_Simharaju.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+pratyushasimharaju",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/pratyusha.simharaju",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/pratyusha-simharaju-79aa8128",
+        "name" : "Linkedin"
+      } ],
+      "title" : "Women Techmakers - Lead"
+    }, {
+      "name" : "Quamar Fatima",
+      "photoUrl" : "/images/people/Quamar_Fatima.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+SamraFatima_osmania_university",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/samra.fatima1",
+        "name" : "Facebook"
+      },{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/fatima_samra",
+        "name" : "Twitter"
+      } ],
+      "title" : "Women Techmakers- Co-Lead"
+    }, {
+      "name" : "Venkata Dinesh",
+      "photoUrl" : "/images/people/Venkata_Dinesh.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/117608472556300061449venkata ",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/venkatadineshkotturu",
+        "name" : "Facebook"
+      } ],
+      "title" : "GDG Hydroid Lead"
+    }, {
+      "name" : "Gaurav Sharma",
+      "photoUrl" : "/images/people/Gaurav_Sharma.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+GauravSharma531",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/gauravsharma531",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Gauravsharma531",
+        "name" : "Twitter"
+      },{
+      "icon" : "website",
+      "link" : "https://github.com/GauravSharma531",
+      "name" : "Blog"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/gaurav-sharma-0967b328",
+        "name" : "Linkedin"
+      } ],
+      "title" : "GDG Hydroid Co-Lead"
+    }, {
+      "name" : "Anudeep M",
+      "photoUrl" : "/images/people/Anudeep_M.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+AnudeepMedishetti",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mad.droid",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Anudeep_Mad",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "www.anudeep-medishetti.appspot.com",
+        "name" : "Blog"
+      } ],
+      "title" : "Organizer"
+    }, {
+      "name" : "U.M.K Dikshit",
+      "photoUrl" : "/images/people/UMK_Dikshit.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/kalyan.dikshit",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/decode_dev",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://keybase.io/decode_dev",
+        "name" : "Blog"
+      }],
+      "title" : "Organizer"
+    } ],
+    "title" : "Core Team"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "info" : "Join us to learn more and share your knowledge with budding developers",
+      "name" : "CONNECT"
+    }, {
+      "info" : "Brew your program with perfect combination of syntax and semantics",
+      "name" : "CODE"
+    }, {
+      "info" : "Bring in your smartest and coolest ideas and build the impossible!",
+      "name" : "INNOVATE"
+    } ],
+    "url" : "https://www.meetup.com/gdghyderabad/"
+  },
+  "videos" : [ {
+    "speakers" : "Jen Person",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "Coffee with a Googler",
+    "youtubeId" : "ILeMQcT-10c"
+  }, {
+    "speakers" : "Stocker",
+    "thumbnail" : "/images/sessions/109.JPG",
+    "title" : "Let's talk [Hello World]",
+    "youtubeId" : "BOHZHMmTYbk"
+  }, {
+    "speakers" : "Surf",
+    "thumbnail" : "/images/sessions/110.JPG",
+    "title" : "Google Developer Agency program'",
+    "youtubeId" : "iVVQ8Fh79jQ"
+  }, {
+    "speakers" : "Timothy Jordan",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "The Developer Show (TL;DR 080)",
+    "youtubeId" : "s_D1TBopAS0"
+  }, {
+    "speakers" : "Geo Casts",
+    "thumbnail" : "/images/sessions/113.JPG",
+    "title" : "Transport Tracker Solution for Google Maps",
+    "youtubeId" : "1cOIm7n5V54"
+  }, {
+    "speakers" : "Google Developers Group",
+    "thumbnail" : "/images/sessions/122.JPG",
+    "title" : "GDG Global Community Summit",
+    "youtubeId" : "6i19-b6Px6g"
+  }, {
+    "speakers" : "Rony Rozen",
+    "thumbnail" : "/images/sessions/101.JPG",
+    "title" : "Quick Tip: UITableViewController Performance Tips (Route 85)",
+    "youtubeId" : "--0Plt3vyt4"
+  }, {
+    "speakers" : "Wesley Chun",
+    "thumbnail" : "/images/sessions/135.JPG",
+    "title" : "The G Suite Dev show",
+    "youtubeId" : "Qd64idiKZWw"
+  }, {
+    "speakers" : "Andrew Brogoon",
+    "thumbnail" : "/images/sessions/120.JPG",
+    "title" : "AdMob + Analytics - Mobile Ads Garage #16",
+    "youtubeId" : "LDwKthCoCTE"
+  }, {
+    "speakers" : "Gayatri Rajan",
+    "thumbnail" : "/images/sessions/134.JPG",
+    "title" : "Women Techmakers Mountain View Summit 2017",
+    "youtubeId" : "ddGrAy0szCo"
+  }, {
+    "speakers" : "Google",
+    "thumbnail" : "/images/sessions/112.JPG",
+    "title" : "Google I/O 2017 Highlights",
+    "youtubeId" : "qmeAAp9rSVY"
+  }, {
+    "speakers" : "Google I/O",
+    "thumbnail" : "/images/sessions/115.JPG",
+    "title" : "Developer Keynote Highlights",
+    "youtubeId" : "SCBgDBMkPJ0"
+  }, {
+    "speakers" : "Sachit Mishra",
+    "thumbnail" : "/images/sessions/106.JPG",
+    "title" : "Actions on Google: Building Apps for Assistant",
+    "youtubeId" : "ZvyrvowZ4wQ"
+  }, {
+    "speakers" : "Dave Thau",
+    "thumbnail" : "/images/sessions/124.JPG",
+    "title" : "Planetary-scale geospatial analysis with Google Earth Engine",
+    "youtubeId" : "4E6yQLoGO2o"
+  }, {
+    "speakers" : "Google Developers",
+    "thumbnail" : "/images/sessions/125.JPG",
+    "title" : "Introducing AIY Projects: DIY AI for Makers",
+    "youtubeId" : "upwcDQnQhIs"
+  }, {
+    "speakers" : "Google Design",
+    "thumbnail" : "/images/sessions/133.JPG",
+    "title" : "Design Snippets: Circuit's simple and clean visual design",
+    "youtubeId" : "o03-tAPtxOk"
+  }, {
+    "speakers" : "WebVR Experiments",
+    "thumbnail" : "/images/sessions/104.JPG",
+    "title" : "Virtual reality on the web for everyone",
+    "youtubeId" : "Jzrqrji_2xk"
+  }, {
+    "speakers" : "Google Developer Day 2017",
+    "thumbnail" : "/images/sessions/103.JPG",
+    "title" : "Gaming Analytics with Firebase",
+    "youtubeId" : "zbGm0Oh3VMw"
+  }, {
+    "speakers" : "Timothy Jordon",
+    "thumbnail" : "/images/sessions/108.JPG",
+    "title" : "Cloud NEXT - Developer Show",
+    "youtubeId" : "YV4BOhYTd9k"
+  }, {
+    "speakers" : "Google",
+    "thumbnail" : "/images/sessions/117.JPG",
+    "title" : "Google Summer of Code",
+    "youtubeId" : "S6IP_6HG2QE"
+  }, {
+    "speakers" : "TensorFlow",
+    "thumbnail" : "/images/sessions/114.JPG",
+    "title" : "Highlights from the 2017 TensorFlow Dev Summit",
+    "youtubeId" : "-F-TQJtbFMs"
+  }, {
+    "speakers" : "Shawn Busolits",
+    "thumbnail" : "/images/sessions/105.JPG",
+    "title" : "Getting Started with the IMA SDK for HTML5",
+    "youtubeId" : "HH0HGMphTKY"
+  }, {
+    "speakers" : "Building Inclusive & Diverse Tech Hubs",
+    "thumbnail" : "/images/sessions/111.JPG",
+    "title" : "Measurement and Accountability",
+    "youtubeId" : "pOp-32twRn4"
+  }, {
+    "speakers" : "Google Developer Day 2016",
+    "thumbnail" : "/images/sessions/107.JPG",
+    "title" : "Introduction to Tango",
+    "youtubeId" : "t_pv3u7IB2c"
+  }, {
+    "speakers" : "Kelsey Hightower",
+    "thumbnail" : "/images/sessions/140.JPG",
+    "title" : "Kubernetes over Coffee",
+    "youtubeId" : "5me5qpq7MPc"
+  }, {
+    "speakers" : "Kayce Basques",
+    "thumbnail" : "/images/sessions/119.JPG",
+    "title" : "What's new in DevTools",
+    "youtubeId" : "Lscb4SL58X4"
+  }, {
+    "speakers" : "Rob Dodson",
+    "thumbnail" : "/images/sessions/123.JPG",
+    "title" : "Asynchronous Actions with Redux -- Polycasts",
+    "youtubeId" : "y2FxAT1u8pU"
+  } ]
+}
