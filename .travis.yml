@@ -20,5 +20,10 @@ before_deploy: npm run build
 deploy:
 - provider: firebase
   skip_cleanup: true
-after_success:
- - firebase deploy --token $FIREBASE_TOKEN
+  on:
+    branch: master
+  project: gdg-hyderabad-47594
+  token:
+    secure: $FIREBASE_TOKEN
+- provider: firebase
+  skip_cleanup: true
