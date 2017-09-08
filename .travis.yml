@@ -22,7 +22,7 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
-  project: gdg-hyderabad-web
+  project: gdghyderabad-19758
   token:
     secure: $FIREBASE_TOKEN
 - provider: firebase
