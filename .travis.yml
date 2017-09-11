@@ -19,5 +19,13 @@ script: echo "Deploying!"
 before_deploy: npm run build
 install:
   - npm install -g firebase-tools
+deploy:
+- provider: firebase
+  skip_cleanup: true
+  on:
+    branch: master
+  project: gdghyderabad-19758
 after_sucess:
   - firebase deploy --token $FIREBASE_TOKEN
+- provider: firebase
+  skip_cleanup: true  
