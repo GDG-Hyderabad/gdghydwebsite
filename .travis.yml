@@ -23,7 +23,7 @@ deploy:
   on:
     branch: master
   project: gdghyderabad-19758
-after_sucess:
-  - firebase deploy --token $FIREBASE_TOKEN
+  token:
+    secure: $FIREBASE_TOKEN
 - provider: firebase
   skip_cleanup: true
