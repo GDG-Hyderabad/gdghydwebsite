@@ -153,8 +153,6 @@ function prependPath(pre, to) {
 
 gulp.task('default', build);
 
-gulp.task('clean', del.bind(null, ['docs', 'coverage', 'build', 'release']));
-
 gulp.task('serve', gulp.series(compileTemplate, () => {
   browserSync.init({
     logPrefix: 'Hoverboard',
