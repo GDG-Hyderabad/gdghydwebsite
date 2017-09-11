@@ -1,4 +1,4 @@
-* [Travis Build](https://travis-ci.org/GDG-Hyderabad/gdghydwebsite.svg?style=flat-square)
+![Travis Build](https://img.shields.io/travis/GDG-Hyderabad/gdghydwebsite.svg?style=flat-square)
 
 # Docs
 
