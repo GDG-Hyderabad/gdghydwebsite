@@ -1,5 +1,4 @@
 ![Travis Build](https://img.shields.io/travis/GDG-Hyderabad/gdghydwebsite.svg?style=flat-square)
-
 # Docs
 
 ## Tutorials
