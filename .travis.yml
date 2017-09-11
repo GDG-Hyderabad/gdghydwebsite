@@ -17,8 +17,6 @@ install:
 - yarn
 script: echo "Deploying!"
 before_deploy: npm run build
-install:
-  - npm install -g firebase-tools
 deploy:
 - provider: firebase
   skip_cleanup: true
