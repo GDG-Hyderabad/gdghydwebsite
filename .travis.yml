@@ -16,6 +16,7 @@ addons:
 install:
 - yarn
 script: echo "Deploying!"
+before_deploy: npm run build
 deploy:
 - provider: firebase
   skip_cleanup: true
@@ -23,6 +24,6 @@ deploy:
     branch: master
   project: gdghyderabad-19758
   token:
-    secure: $FIREBASE_TOKEN
+    secure: $FIREBASE_WEB_TOKEN
 - provider: firebase
   skip_cleanup: true
