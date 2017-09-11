@@ -1,6 +1,5 @@
 ![Travis Build](https://img.shields.io/travis/GDG-Hyderabad/gdghydwebsite.svg?style=flat-square)
 
-![Licence](https://img.shields.io/npm/l/express.svg?style=flat-square)
 # Docs
 
 ## Tutorials
