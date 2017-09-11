@@ -1,3 +1,5 @@
+* [Travis Build](https://travis-ci.org/GDG-Hyderabad/gdghydwebsite.svg?style=flat-square)
+
 # Docs
 
 ## Tutorials
