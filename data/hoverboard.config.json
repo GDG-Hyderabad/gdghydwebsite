@@ -1,9 +1,9 @@
 {
-  "url": "https://gdg-hyderabad-678f9.firebaseapp.com/",
+  "url": "https://gdghyderabad-19758.firebaseio.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "",
+    "prod": "UA-106311830-1",
     "dev": ""
   },
   "organizer": {
@@ -17,9 +17,9 @@
   },
   "firebase": {
     "name": "gdg-hyderabad",
-    "domain": "gdg-hyderabad-678f9.firebaseapp.com",
-    "database": "https://gdg-hyderabad-678f9.firebaseio.com",
-    "api": "AIzaSyAb73o2MNiqmDPiTlMAIvh-F98Gv03YuEg",
+    "domain": "gdghyderabad-19758.firebaseapp.com",
+    "database": "https://gdghyderabad-19758.firebaseio.com/",
+    "api": "AIzaSyADLtXFd5O9oc5aqOPr9KmltQ6Ouyy0VYY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
