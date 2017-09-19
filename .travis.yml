@@ -1,9 +1,9 @@
 language: node_js
 node_js: 7
 cache:
-  yarn: true
   directories:
   - node_modules
+  - bower_components
   - "${NVM_PATH}_modules"
 env:
 - CXX=g++-4.8
@@ -14,11 +14,14 @@ addons:
     packages:
     - g++-4.8
 install:
-- yarn
+- npm install
 script: echo "Deploying!"
 before_deploy: npm run build
 deploy:
 - provider: firebase
   skip_cleanup: true
-after_success:
- - firebase deploy --token $FIREBASE_TOKEN
+  on:
+    branch: master
+  project: gdghyderabad-19758
+  token:
+    secure: $FIREBASE_TOKEN
