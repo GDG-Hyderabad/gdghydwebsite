@@ -15,12 +15,13 @@ addons:
     - g++-4.8
 install:
 - npm install
+before_deploy: npm run build
 script: echo "Deploying!"
 deploy:
 - provider: firebase
   skip_cleanup: true
   on:
     branch: master
-  project: gdghydwebsite-master
+  project: gdghyderabad-19758
   token:
     secure: $FIREBASE_TOKEN
