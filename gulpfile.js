@@ -151,8 +151,6 @@ function prependPath(pre, to) {
   return `${pre}/${to}`;
 }
 
-gulp.task('build', build);
-
 gulp.task('default', build);
 
 gulp.task('serve', gulp.series(compileTemplate, () => {
