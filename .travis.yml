@@ -24,5 +24,3 @@ deploy:
   project: gdghyderabad-19758
   token:
     secure: $FIREBASE_TOKEN
-- provider: firebase
-  skip_cleanup: true
