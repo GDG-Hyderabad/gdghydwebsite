@@ -1,7 +1,10 @@
 language: node_js
+sudo: required
+dist: trusty
 node_js: 7
 cache:
-  directories:
+ yarn: true
+ directories:
   - node_modules
   - bower_components
   - "${NVM_PATH}_modules"
@@ -14,9 +17,12 @@ addons:
     packages:
     - g++-4.8
 install:
-- npm install
+- yarn install
+script:
+  - yarn run lint
 script: echo "Deploying!"
-before_deploy: npm run build
+before_deploy: 
+  - yarn run build
 deploy:
 - provider: firebase
   skip_cleanup: true
