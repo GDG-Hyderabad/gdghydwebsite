@@ -22,6 +22,6 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
-  project: gdghydwebsite
+  project: gdghydwebsite-master
   token:
     secure: $FIREBASE_TOKEN
