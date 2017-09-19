@@ -16,7 +16,6 @@ addons:
 install:
 - npm install
 script: echo "Deploying!"
-before_deploy: npm run build
 deploy:
 - provider: firebase
   skip_cleanup: true
