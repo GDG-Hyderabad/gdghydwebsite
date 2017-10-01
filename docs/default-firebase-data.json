@@ -312,6 +312,10 @@
         "link" : "https://twitter.com/bsilagani",
         "name" : "Twitter"
       }, {
+        "icon" : "website",
+        "link" : "https://github.com/bsilagani",
+        "name" : "Blog"
+      },{
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/bsilagani",
         "name" : "Linkedin"
