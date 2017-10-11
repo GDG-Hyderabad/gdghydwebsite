@@ -1,4 +1,4 @@
-Google Developers Group Hyderabad is proud to announce the sixth annual GDG DevFest 2017 which is the biggest Google related event in Hyderabad carefully crafted by GDG community! The event will take place in **November** in **Hyderabad**.
+Google Developers Group Hyderabad is proud to announce the sixth annual GDG DevFest 2017 which is the biggest Google related event in Hyderabad carefully crafted by GDG community! The event will take place on **4 November** in **Hyderabad**.
 
 ### What to expect
 

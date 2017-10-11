@@ -26,7 +26,7 @@
   "featuredPeopleTitle": "Community Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "Know more about GDG India",
-  "devfestAction": "Stay Tuned! #DevFest17",
+  "devfestAction": "Know More",
   "locationTitle": "Hyderabad",
   "locationDescription": "Hyderabad, the City of Pearls, one of the most dynamic cities across the world with an exponential growth of Tech & Startup community",
   "locationAddress": "Telangana, India",
@@ -142,7 +142,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest is coming this November",
+    "videoTitle": "Join us as we celebrate 6th season of DevFest.",
     "videoId": "nXTaiZRHa4g"
   }
 }
