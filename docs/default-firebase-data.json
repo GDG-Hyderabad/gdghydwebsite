@@ -278,6 +278,85 @@
     "tags" : [ "web", "seo", "digital-marketing", "business-management" ],
     "title" : "Technologist & Changepreneur"
   }, {
+    "bio" : "Have more than 10 years of experience in Automation testing.",
+    "company" : "NCR Corporation",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Software Engineer",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Rashmi Ambale",
+    "photoUrl" : "/images/people/rashmi.jpg",
+    "shortBio" : "Have more than 10 years of experience in Automation testing",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/100183191369585102796",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "web", "testing", "automation" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "Rohit Gupta is a Solutions Engineer on Google Cloud Platform, working with Google since 2013 having worked on Google's Ads Abuse fighting systems before switching to the Cloud team. In his role he helps companies make efficient use of Google Cloud Platform, architect solutions and build strategies to be successful on the cloud.",
+    "company" : "Google India",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Solutions Engineer",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Rohit Gupta",
+    "photoUrl" : "/images/people/rohit.jpg",
+    "shortBio" : "Rohit Gupta is a Solutions Engineer on Google Cloud Platform, working with Google since 2013...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/rohitforcloud",
+      "name" : "Twitter"
+    }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/rohitforcloud/",
+        "name" : "LinkedIn"
+    }],
+    "tags" : [ "web", "cloud" ],
+    "title" : "Solutions Engineer"
+  }, {
+    "bio" : "Sr. Android developer with 5+ years of experience in developing Android applications. Passionate about new technologies and making efficient and secure apps. Coffee, Code, Music (best combination).",
+    "company" : "Hug Innovations",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Sr. Android Developer",
+    "featured" : true,
+    "id" : 14,
+    "name" : "Raviteja Gadipudi",
+    "photoUrl" : "/images/people/raviteja.jpg",
+    "shortBio" : "Sr. Android developer with 5+ years of experience in developing Android applications...",
+    "socials" : [ {
+        "icon" : "facebook",
+        "link" : "http://facebook.com/rgadipudi",
+        "name" : "Facebook"
+    }, {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/raviteja06",
+        "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/raviteja06",
+      "name" : "GitHub"
+    }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/rgadipudi",
+        "name" : "LinkedIn"
+    }],
+    "tags" : [ "android"],
+    "title" : "Sr. Android Developer"
+  }, {
+    "bio" : "UI Architect with 11yrs of expirience in web/UI development, spoken in various meetups like Angular JS Hyd, JS Channel Bangalore, GDG Hyderabad etc took sessions in many IT companies like CISCO, Intel, Deloitte etc.",
+    "company" : "Pega Systems",
+    "companyLogo" : "/images/logos/logo-grey.svg",
+    "role" : "Associate Architect",
+    "featured" : false,
+    "id" : 15,
+    "name" : "Nagaraju Sangam",
+    "photoUrl" : "/images/people/nagaraju.jpg",
+    "shortBio" : "UI Architect with 11yrs of expirience in web/UI development, spoken in various...",
+    "tags" : [ "Web","UI","React","AngularJS","Bootstrap"],
+    "title" : "Associate Architect"
+  }, {
     "bio" : " Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
     "company" : "GDG Hyderabad",
     "companyLogo" : "/images/logos/logo-grey.svg",
