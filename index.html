@@ -16,6 +16,17 @@
   <meta name="theme-color" content="{$ webapp.themeColor $}">
   <link rel="manifest" href="manifest.json">
 
+  <style id="antiClickjack">body{display:none !important;}</style>
+  
+    <script type="text/javascript">
+      if (self === top) {
+          var antiClickjack = document.getElementById("antiClickjack");
+          antiClickjack.parentNode.removeChild(antiClickjack);
+      } else {
+          top.location = self.location;
+      }
+    </script>
+
   <!-- Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes"> <!-- fallback for manifest.json -->
   <meta name="application-name" content="{$ title $}"> <!-- fallback for manifest.json -->
