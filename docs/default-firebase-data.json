@@ -36,9 +36,9 @@
     "title" : "Community Partners"
     } ],
   "speakers" : [ null, {
-    "bio" : "Naren is the Co-founder&CEO of Stockroom, India's #1 curated platform for developers. He is an alumni of BITS Pilani.Stockroom has hosted 200+ coding challenges with 40+ clients like Amazon,Microsoft, Thoughtworks etc. Naren is also part of elite fellowships like Kairos Society, Draper University, World business dialogue etc.",
+    "bio" : "Naren is the Co-founder & CEO of Stockroom, India's #1 curated platform for developers. He is an alumni of BITS Pilani.Stockroom has hosted 200+ coding challenges with 40+ clients like Amazon,Microsoft, Thoughtworks etc. Naren is also part of elite fellowships like Kairos Society, Draper University, World business dialogue etc.",
     "company" : "Stockroom",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/stockroom.svg",
     "role" : "Co-Founder & CEO",
     "featured" : true,
     "id" : 2,
@@ -59,7 +59,7 @@
   }, {
     "bio" : "Design leader at the intersection of business strategy and user experience. I am an expert at bringing people together to develop and implement breakthrough ideas that serve as the basis for differentiating experience strategies and user experience designs. I have over 15 years consulting experience with clients across industries to transform both their experiences and their organizations to create competitive advantage and achieve their business objectives.",
     "company" : "ThoughtWorks",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/tw.png",
     "role" : "Lead User Experience Strategist",
     "featured" : true,
     "id" : 1,
@@ -77,7 +77,7 @@
   {
     "bio" : "Harish Kotra has 5 years of hands on experience in web and mobile app development. He currently leads the tech team at Deep Red Ink Consulting Pvt. Ltd. Harish on a daily basis works on Hybrid App development, ML and web applications. He also organizes Hackathons through out India.",
     "company" : "Fests.info",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/festsinfo.png",
     "role" : "Founder",
     "featured" : true,
     "id" : 10,
@@ -107,7 +107,7 @@
     } ],
     "bio" : "I'm a technological enthusiast , full stack developer and father of most beautiful daughter.",
     "company" : "Pramati Technologies",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/pramati.jpg",
     "role" : "Developer",
     "featured" : true,
     "id" : 3,
@@ -136,7 +136,7 @@
   }, {
     "bio" : "Astute Professional with over 10 years of experience in the domain of Analytics, Customer Engagement, Retention,Mobile Strategy, Product Management, Pre-sales, Delivery, Solutioning.",
     "company" : "PurpleTalk",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/purpletalk.png",
     "role" : "Developer",
     "featured" : true,
     "id" : 4,
@@ -166,7 +166,7 @@
       } ],
     "bio" : "Keerti Kotaru has experience with web development for 15 years. He is an organiser for ngHyderabad Meetup group in the city. He is a two time Microsoft MVP",
     "company" : "ngHyderabad",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/cognizant.svg",
     "role" : "Software Engineer",
     "featured" : true,
     "id" : 5,
@@ -200,7 +200,7 @@
     } ],
     "bio" : "I am a developer with experience in building applications using several .NET technologies and JavaScript. I organize the ngHyderabad meetup and write for my blog, SitePoint.com and DotNetCurry.com. I am a recipient of the Microsoft MVP award over last 3 years for my contribution to the community.",
     "company" : "ngHyderabad",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/innominds.png",
     "role" : "Software Developer",
     "featured" : true,
     "id" : 6,
@@ -234,7 +234,7 @@
     } ],
     "bio" : "Technology enthusiast",
     "company" : "Ivy Comptech",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/ivy.jpg",
     "role" : "Android Developer",
     "featured" : true,
     "id" : 7,
@@ -255,7 +255,7 @@
   }, {
     "bio" : "A technologist and changepreneur with experience in community management and keen interest in making the most of my MBA learnings and computer science based skills. ",
     "company" : "Women Technmakers Hyderabad",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "role" : "Technologist & Changepreneur",
     "featured" : true,
     "id" : 8,
@@ -280,7 +280,7 @@
   }, {
     "bio" : "Have more than 10 years of experience in Automation testing.",
     "company" : "NCR Corporation",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/ncr.jpg",
     "role" : "Software Engineer",
     "featured" : true,
     "id" : 11,
@@ -297,7 +297,7 @@
   }, {
     "bio" : "Rohit Gupta is a Solutions Engineer on Google Cloud Platform, working with Google since 2013 having worked on Google's Ads Abuse fighting systems before switching to the Cloud team. In his role he helps companies make efficient use of Google Cloud Platform, architect solutions and build strategies to be successful on the cloud.",
     "company" : "Google India",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/google.svg",
     "role" : "Solutions Engineer",
     "featured" : true,
     "id" : 12,
@@ -318,7 +318,7 @@
   }, {
     "bio" : "Sr. Android developer with 5+ years of experience in developing Android applications. Passionate about new technologies and making efficient and secure apps. Coffee, Code, Music (best combination).",
     "company" : "Hug Innovations",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/hug.png",
     "role" : "Sr. Android Developer",
     "featured" : true,
     "id" : 14,
@@ -347,7 +347,7 @@
   }, {
     "bio" : "UI Architect with 11yrs of expirience in web/UI development, spoken in various meetups like Angular JS Hyd, JS Channel Bangalore, GDG Hyderabad etc took sessions in many IT companies like CISCO, Intel, Deloitte etc.",
     "company" : "Pega Systems",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/pega.svg",
     "role" : "Associate Architect",
     "featured" : false,
     "id" : 15,
@@ -359,7 +359,7 @@
   }, {
     "bio" : " Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
     "company" : "GDG Hyderabad",
-    "companyLogo" : "/images/logos/logo-grey.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "role" : "Community Co-Lead",
     "featured" : true,
     "id" : 9,
