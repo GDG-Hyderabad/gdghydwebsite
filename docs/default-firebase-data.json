@@ -1,14 +1,6 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/nghyd.png",
-      "name" : "ng-Hyderabad",
-      "url" : "https://plus.google.com/102444623953913144164",
-      "width" : 170
-    } ],
-    "title" : "Community Partners"
-  }, {
-    "logos" : [ {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com"
@@ -28,13 +20,21 @@
       "logoUrl" : "../images/logos/Hackerrank.svg",
       "name" : "Hackerrank",
       "url" : "https://www.hackerrank.com/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
     } ],
-    "title" : "General Sponsors & Partners"
-  } ],
+    "title" : "General Sponsors"
+    }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/nghyd.png",
+      "name" : "ng-Hyderabad",
+      "url" : "https://plus.google.com/102444623953913144164",
+      "width" : 170
+    }, {
+        "logoUrl" : "../images/logos/gdg-x.svg",
+        "name" : "GDG[x]",
+        "url" : "https://github.com/gdg-x"
+    }  ],
+    "title" : "Community Partners"
+    } ],
   "speakers" : [ null, {
     "bio" : "Naren is the Co-founder&CEO of Stockroom, India's #1 curated platform for developers. He is an alumni of BITS Pilani.Stockroom has hosted 200+ coding challenges with 40+ clients like Amazon,Microsoft, Thoughtworks etc. Naren is also part of elite fellowships like Kairos Society, Draper University, World business dialogue etc.",
     "company" : "Stockroom",
