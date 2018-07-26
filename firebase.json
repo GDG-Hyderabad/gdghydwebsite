@@ -12,9 +12,11 @@
       }
     ],
     "ignore": [
+      "/test/**",
+      "bower.json",
+      "database.rules.json",
       "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
+      "README.md"
     ]
   }
 }
