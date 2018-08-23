@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "bower": "^1.8.4",
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.24.6",
     "connect-history-api-fallback": "^1.4.0",
     "css-slam": "^2.0.2",
     "del": "^3.0.0",
