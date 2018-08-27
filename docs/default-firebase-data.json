@@ -410,40 +410,6 @@
       } ],
       "title" : "Community Co-Lead"
     }, {
-      "name" : "Pratyusha Simharaju",
-      "photoUrl" : "/images/people/Prathyusha_Simharaju.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+pratyushasimharaju",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/pratyusha.simharaju",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://in.linkedin.com/in/pratyusha-simharaju-79aa8128",
-        "name" : "Linkedin"
-      } ],
-      "title" : "Women Techmakers - Lead"
-    }, {
-      "name" : "Quamar Fatima",
-      "photoUrl" : "/images/people/Quamar_Fatima.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+SamraFatima_osmania_university",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/samra.fatima1",
-        "name" : "Facebook"
-      },{
-        "icon" : "twitter",
-        "link" : "https://twitter.com/fatima_samra",
-        "name" : "Twitter"
-      } ],
-      "title" : "Women Techmakers- Co-Lead"
-    }, {
       "name" : "Venkata Dinesh",
       "photoUrl" : "/images/people/Venkata_Dinesh.jpg",
       "socials" : [ {
