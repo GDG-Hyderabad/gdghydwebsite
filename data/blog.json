@@ -9,7 +9,7 @@
     "brief": "GDG DevFest Hyderabad 2016 was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Hyderabad!"
   },
   {
-    "id": "devfest-2016-announced",
+    "id": "devfest-2017-announced",
     "title": "GDG DevFest 2017 Announced",
     "posted": "2017-09-06",
     "primaryColor": "#00BCD4",
@@ -25,5 +25,25 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/c4p-is-open.jpg",
     "brief": "GDG DevFest Hyderabad 2017 is announced! The 6th edition of the biggest conference about Google technologies in Hyderabad will take on **4 November, 2017**. That means that it is time to open [call for talk submissions](https://goo.gl/KoHXXh)."
+  },
+
+  {
+    "id": "c4p-time",
+    "title": "Call for Papers - DevFest 2018",
+    "posted": "2018-08-25",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/c4p.jpg",
+    "brief": "GDG DevFest Hyderabad 2018 has been announced! The 7th edition of the biggest conference about Google technologies in Hyderabad will take on **27-28 October 2018**. That means that it is time to open [call for talk submissions](https://devfest.gdghyderabad.in/blog/posts/c4p/)."
+  },
+
+  {
+    "id": "devfest-2018-announced",
+    "title": "GDG DevFest 2018 Announced",
+    "posted": "2018-08-25",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/posts/devfest18.jpg",
+    "brief": "It’s time of the year when people look forward to some “Nerd Stuff”. Here we announce the most awaited, beloved flagship conference of the year “DevFest 2018” going to be held on 27-28 October 2018 at Hyderabad. Each year people look forward to attend this event to learn, share and build from fellow developers and speakers. <b>[Know More]</b>(https://devfest.gdghyderabad.in)."
   }
 ]
