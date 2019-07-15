@@ -1607,7 +1607,7 @@ easy-extender@^2.3.4:
   version "2.3.4"
   resolved "https://registry.yarnpkg.com/easy-extender/-/easy-extender-2.3.4.tgz#298789b64f9aaba62169c77a2b3b64b4c9589b8f"
   dependencies:
-    lodash "^4.17.10"
+    lodash "^4.17.13"
 
 eazy-logger@^3:
   version "3.0.2"
