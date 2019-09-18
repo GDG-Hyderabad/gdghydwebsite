@@ -17,7 +17,7 @@
     "del": "^3.0.0",
     "gulp": "^4.0.2",
     "gulp-changed": "^4.0.0",
-    "gulp-cli": "^1.4.0",
+    "gulp-cli": "^2.2.0",
     "gulp-htmlmin": "^3.0.0",
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^6.1.0",
@@ -28,7 +28,8 @@
     "plylog": "^0.5.0",
     "polymer-build": "^3.1.4",
     "require-uncached": "^1.0.3",
-    "sw-precache": "^5.2.0"
+    "sw-precache": "^5.2.0",
+    "yarn": "1.17.3"
   },
   "engines": {
     "node": ">=8.1"
