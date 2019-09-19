@@ -18,9 +18,11 @@
       :host {
         --paper-tabs-selection-bar-color: #FFFFFF;
         --paper-tab-ink: rgba(255, 255, 255, 0.2);
+
         --paper-tab-content: {
           font-weight: 400 !important;
         };
+
         --paper-tab: {
           color: #FFFFFF;
           font-weight: 400;
@@ -33,8 +35,8 @@
       }
 
       app-toolbar {
-        min-height: var(--min-header-height, 120px);
-        max-height: 360px;
+        min-height: var(--min-header-height, 400px);
+        max-height: 500px;
       }
 
       .container {
@@ -70,8 +72,9 @@
       }
 
       .logo {
-        width: 240px;
-        min-height: 80px;
+        width: 440px;
+        min-height: 100px;
+        margin-left: -30px;
       }
 
       .dates {
@@ -81,8 +84,9 @@
 
       .motto {
         margin-top: 20px;
-        font-size: 22px;
-        line-height: 1;
+        font-size: 30px;
+        line-height: 2;
+        font-weight: 400;
       }
 
       .action-buttons {
@@ -120,7 +124,6 @@
           min-height: 360px;
         }
       }
-
     </style>
 
     <app-toolbar>
@@ -128,16 +131,9 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG Hyderabad"></iron-image>
+              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain" alt="GDG Hyderabad"></iron-image>
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
-              {% if pages.home.headerSettings.video %}
-                <div class="open-video" on-tap="_openVideo">
-                  <iron-icon icon="play"></iron-icon>
-                  {$ playIcon $}
-                </div>
-              {% endif %}
               <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
               </div>
@@ -152,13 +148,13 @@
           </div>
         </animatable-content>
         {% for page, settings in pages %}
-          {% if page !== 'home' and page !== 'blog' %}
-            <animatable-content name="{$ page $}">
-              <div class="container">
-                <h3 class="page-title">{$ settings.title $}</h3>
-              </div>
-            </animatable-content>
-          {% endif %}
+        {% if page !== 'home' and page !== 'blog' %}
+        <animatable-content name="{$ page $}">
+          <div class="container">
+            <h3 class="page-title">{$ settings.title $}</h3>
+          </div>
+        </animatable-content>
+        {% endif %}
         {% endfor %}
       </neon-animated-pages>
     </app-toolbar>

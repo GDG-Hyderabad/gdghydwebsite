@@ -10,7 +10,7 @@
     <style include="shared-styles">
       :host {
         display: block;
-        background: #0cbda4;
+        background: #c3073f;
         color: #ffffff;
       }
 
@@ -34,11 +34,16 @@
       }
 
       .caption {
-        font-size: .85em;
+        font-size: 18px;
+        line-height: 65px;
       }
 
       .description {
         margin-top: 35px;
+        font-size: 35px;
+        font-weight: 100;
+        line-height: 50px;
+        padding: 25px;
       }
 
       @media (max-width: 600px) {
@@ -62,10 +67,10 @@
     <div class="container">
       <div class="statistics-wrapper">
         {% for statistic in statistics %}
-          <div class="statistics-element">
-            <span class="counter">{$ statistic.counter $}</span>
-            <span class="caption">{$ statistic.caption $}</span>
-          </div>
+        <div class="statistics-element">
+          <span class="counter">{$ statistic.counter $}</span>
+          <span class="caption">{$ statistic.caption $}</span>
+        </div>
         {% endfor %}
       </div>
       <div class="description">{$ description $}</div>

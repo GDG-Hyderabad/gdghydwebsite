@@ -63,9 +63,9 @@
       "url": "https://twitter.com/gdg_hyd"
     },
     {
-      "name": "gplus",
-      "nickname": "+GdghyderabadOrg",
-      "url": "https://plus.google.com/+GdghyderabadOrg"
+      "name": "meetup",
+      "nickname": "gdghyd",
+      "url": "https://www.meetup.com/GDGHyderabad/"
     },
     {
       "name": "facebook",
@@ -113,7 +113,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {

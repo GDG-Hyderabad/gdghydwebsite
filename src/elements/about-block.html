@@ -10,8 +10,7 @@
 
   <template>
 
-  <style include="shared-styles">
-
+    <style include="shared-styles">
       :host {
         display: block;
       }
@@ -19,10 +18,10 @@
       .container {
         @apply(--layout-vertical);
       }
-    
+
       .about-item {
         @apply(--layout-flex-5);
-        text-align: justify;
+        text-align: left;
       }
 
       .about-item:not(:first-of-type) {
@@ -36,10 +35,13 @@
       .indigo {
         background: #0cbda4;
         color: white;
+
         --paper-button-raised-keyboard-focus: {
-            background: #0cbda4 !important;
-            color: white !important;
-          };
+          background: #0cbda4 !important;
+          color: white !important;
+        }
+
+        ;
       }
 
       .page-link {
@@ -48,27 +50,30 @@
         font-size: 16px;
       }
 
-        @media (min-width: 601px) {
-          .container {
-            @apply(--layout-horizontal);
-          }
-
-          .container .heading {
-            margin-bottom: 20px;
-          }
-
-          .about-item:not(:first-of-type) {
-            margin-top: 0;
-          }
+      @media (min-width: 601px) {
+        .container {
+          @apply(--layout-horizontal);
         }
 
-        @media (min-width: 601px) {
-
-          .about-item:not(:first-of-type) {
-            margin-top: 0;
-          }
+        .container .heading {
+          margin-bottom: 20px;
+          margin-bottom: 40px;
+          font-size: 40px;
+          font-weight: 400;
+          color: #5e5e5e;
         }
 
+        .about-item:not(:first-of-type) {
+          margin-top: 0;
+        }
+      }
+
+      @media (min-width: 601px) {
+
+        .about-item:not(:first-of-type) {
+          margin-top: 0;
+        }
+      }
     </style>
 
     <div class="container">
@@ -87,26 +92,26 @@
         </marked-element>
       </div>
     </div>
-    
+
     <div class="clubs" style="background: whitesmoke;">
       <div class="container">
         <div class="about-item">
           <h4 class="heading">{$ wtmTitle $}</h4>
           <marked-element markdown="{$ aboutWtm $}">
-            <div class="markdown-html" ></div>
+            <div class="markdown-html"></div>
           </marked-element>
           <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer">
-          <paper-button raised class="indigo">Share your Passion</paper-button>
+            <paper-button raised class="indigo">Share your Passion</paper-button>
           </a>
-        </div> 
-      <span class="divider"></span> 
+        </div>
+        <span class="divider"></span>
         <div class="about-item">
           <h4 class="heading">{$ hydroidTitle $}</h4>
           <marked-element markdown="{$ aboutHydroid $}">
             <div class="markdown-html"></div>
           </marked-element>
           <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer">
-          <paper-button raised class="indigo">Become Hydroid</paper-button>
+            <paper-button raised class="indigo">Become Hydroid</paper-button>
           </a>
         </div>
       </div>

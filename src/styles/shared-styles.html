@@ -12,9 +12,9 @@
 
         /* Primary colors */
         --dark-primary-color:       #F57C00;
-        --default-primary-color:    #F9C754;
+        --default-primary-color:    #FCD231;
         --light-primary-color:      #FFE0B2;
-        --text-primary-color:       #212121; /* text / icons */
+        --text-primary-color:       #202124; /* text / icons */
 
         /* Accent colors */
         --accent-color:             #03A9F4;
@@ -25,7 +25,7 @@
         --gradient-blue: linear-gradient(to right, #5073B8 36%, #1098AD 100%);
 
         /* Text colors */
-        --primary-text-color:       #212121;
+        --primary-text-color:       #202124;
         --secondary-text-color:     #727272;
         --disabled-text-color:      #BDBDBD;
 
@@ -182,7 +182,7 @@
         color: var(--primary-text-color);
         font-size: 18px;
         font-weight: 300;
-        line-height: 1.4;
+        line-height: 1.6;
       }
 
       h1,
@@ -198,10 +198,18 @@
       }
 
       a,
-      .anchor-like,
-      .markdown-html a {
-        color: var(--default-primary-color);
+      .anchor-like {
+        color: #4868FD;
         text-decoration: none;
+        font-size: 17px;
+        font-weight: 500;
+      }
+
+      .markdown-html a {
+        color: #4868FD;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: 300;
       }
 
       .placeholder-color {
@@ -221,6 +229,8 @@
         font-size: 32px;
         text-transform: uppercase;
         letter-spacing: 0.05em;
+        color: #727272;
+        font-weight: 400;
       }
 
       .page-header {
@@ -253,7 +263,7 @@
         }
 
         .container-narrow {
-          padding: 30px 16px;
+          padding: 70px 16px;
         }
 
         .container .heading {

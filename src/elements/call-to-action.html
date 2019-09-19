@@ -13,27 +13,54 @@
       :host {
         display: block;
         background: #37474f;
-        color: #90a5af;
+        color: #ffffff;
       }
 
-      .container {
+      .container-narrow-devfest {
         @apply(--layout-vertical);
         @apply(--layout-center-center);
+        height: 100%;
       }
 
-      .heading {
+      .container-narrow-devfest-button {
+        @apply(--layout-vertical);
+        @apply(--layout-center-center);
+        padding-top: 25px;
+        padding-bottom: 45px;
+      }
+
+      .container-narrow-devfest .heading {
         @apply(--layout-flex-auto);
         @apply(--layout-self-center);
         margin-bottom: 0 !important;
+        font-size: 30px;
+        text-transform: uppercase;
+        padding-top: 45px;
       }
 
-      .indigos {
-        background:#f1524c;
-            color: white;
-            --paper-button-raised-keyboard-focus: {
-                background: #f1524c !important;
-                color: white !important;
-            };
+      .container-narrow-devfest .sub-heading {
+        @apply(--layout-flex-auto);
+        @apply(--layout-self-center);
+        margin-bottom: 0 !important;
+        font-size: 24px;
+        text-transform: Capitalize;
+        padding-bottom: 30px;
+      }
+
+      .container-narrow-devfest .indigos-devfest {
+        height: 60px;
+      }
+
+      .indigos-devfest {
+        background: #f1524c;
+        color: white;
+
+        --paper-button-raised-keyboard-focus: {
+          background: #f1524c !important;
+          color: white !important;
+        }
+
+        ;
       }
 
       @media (max-width: 599px) {
@@ -53,11 +80,14 @@
       }
     </style>
 
-    <div class="container container-narrow">
+    <div class="container-narrow-devfest">
       <h4 class="heading">{$ callToAction.videoTitle $}</h4>
-      <a href="https://devfest.gdghyderabad.in" target="_blank" rel="noopener noreferrer">
-      <paper-button class="indigos">{$ devfestAction $}</paper-button>
-      </a>
+      <p class="sub-heading">{$ callToAction.videoSubTitle $}</p>
+    </div>
+    <div class="container-narrow-devfest-button">
+      <paper-button class="indigos-devfest">{$ devfestAction $}
+        <a href="https://devfest.gdghyderabad.in" target="_blank" rel="noopener noreferrer"></a>
+      </paper-button>
     </div>
 
   </template>

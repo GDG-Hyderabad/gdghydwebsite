@@ -3,10 +3,10 @@
   "description": "The membership is free & open to newbies, developers, students, organizations and for everyone who is interested in Google & Open Source technologies.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, hyderabad, india",
   "locationAddressShort": "Hyderabad, India",
-  "motto": "Driven by passion for coding",
+  "motto": "Driven by passion for coding.",
   "playIcon": "Know more about GDG India",
   "c4p": "Become a speaker",
-  "buyTicket": "Come, Join us",
+  "buyTicket": "Join the Community Now!",
   "backToTop": "Back to top",
   "subscribe": "Disclaimer",
   "subscribeNote": "GDG Hyderabad is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
@@ -26,7 +26,7 @@
   "featuredPeopleTitle": "Community Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "Know more about GDG India",
-  "devfestAction": "Know More",
+  "devfestAction": "Know More - DevFest 2019",
   "locationTitle": "Hyderabad",
   "locationDescription": "Hyderabad, the City of Pearls, one of the most dynamic cities across the world with an exponential growth of Tech & Startup community",
   "locationAddress": "Telangana, India",
@@ -122,27 +122,28 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "19 years ago, a dream to make knowledge accessible universally came true. Fast forward to 2017, Google has grown into not just a firm that believes in its roots of  continuous learning and sharing but also has become an integral part of our daily lives, as they say “googling around the world”. <br> <br> At GDG Hyderabad, we believe in sharing the same values and expanding to more avenues of collaborating and co-developing ideas to build a creative and innovative platform for developers, technologists and passionate minds. <br> <br> <b>GDG Hyderabad</b> is an open community run by the diverse and inspiring enthusiasm of its members.  Our team is thus driven by this love for bringing an impactful change in the society with the power of technology and community spirit. ",
+  "teamPageText": "21 years ago, a dream to make knowledge accessible universally came true. Fast forward to 2019, Google has grown into not just a firm that believes in its roots of  continuous learning and sharing but also has become an integral part of our daily lives, as they say “googling around the world”. <br> <br> At GDG Hyderabad, we believe in sharing the same values and expanding to more avenues of collaborating and co-developing ideas to build a creative and innovative platform for developers, technologists and passionate minds. <br> <br> <b>GDG Hyderabad</b> is an open community run by the diverse and inspiring enthusiasm of its members.  Our team is thus driven by this love for bringing an impactful change in the society with the power of technology and community spirit. ",
   "statistics": [
     {
-      "counter": "150+",
+      "counter": "250+",
       "caption": "Events"
     },
     {
-      "counter": 2,
+      "counter": 3,
       "caption": "Exclusive Clubs"
     },
     {
-      "counter": "10,000+",
+      "counter": "15,000+",
       "caption": "Attendees"
     },
     {
-      "counter": 6,
+      "counter": 7,
       "caption": "Years of fun"
     }
   ],
   "callToAction": {
     "videoTitle": "Join us as we celebrate 8th season of DevFest.",
+    "videoSubTitle": "12 October 2019 | Cyber Conventions | Hyderabad",
     "videoId": "nXTaiZRHa4g"
   }
 }
