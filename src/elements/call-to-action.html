@@ -85,9 +85,9 @@
       <p class="sub-heading">{$ callToAction.videoSubTitle $}</p>
     </div>
     <div class="container-narrow-devfest-button">
-      <paper-button class="indigos-devfest">{$ devfestAction $}
-        <a href="https://devfest.gdghyderabad.in" target="_blank" rel="noopener noreferrer"></a>
-      </paper-button>
+      <a href="https://devfest.gdghyderabad.in" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <paper-button class="indigos-devfest">{$ devfestAction $}</paper-button>
+      </a>
     </div>
 
   </template>
