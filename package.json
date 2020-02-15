@@ -29,7 +29,7 @@
     "polymer-build": "^3.1.4",
     "require-uncached": "^1.0.3",
     "sw-precache": "^5.2.0",
-    "yarn": "1.17.3"
+    "yarn": "1.22.0"
   },
   "engines": {
     "node": ">=8.1"
